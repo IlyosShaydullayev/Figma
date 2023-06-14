@@ -1,0 +1,845 @@
+.window1{
+    position: absolute;
+    width: 1903px;
+    height: 840px;
+    left: 0px;
+    top: 0px;
+    background-image: url(./home_bg.png);
+    background-position: center;
+    background-size: cover;
+}
+.logo{
+    position: absolute;
+width: 464px;
+height: 96px;
+left: 720px;
+top: 58px;
+}
+.button{
+    position: absolute;
+width: 374px;
+height: 64px;
+left: 765px;
+top: 204px;
+
+background: rgba(0, 0, 0, 0.5);
+border-radius: 59px;
+color: white;
+}
+.mavzu{
+    position: absolute;
+width: 983px;
+height: 269px;
+left: 460px;
+top: 285px;
+
+font-family: serif;
+font-style: normal;
+font-weight: 900;
+font-size: 144px;
+line-height: 134px;
+/* or 93% */
+
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 0px 40px rgba(0, 0, 0, 0.5);
+}
+.tugma{
+    position: absolute;
+width: 180px;
+height: 70px;
+left: 862px;
+top: 654px;
+
+background: radial-gradient(50% 50% at 50% 50%, #FFFFFF 0%, #F9F9F9 100%);
+/* 2 */
+
+box-shadow: 0px 10px 50px rgba(16, 51, 30, 0.5);
+border-radius: 35px;
+}
+.servis{
+    position: absolute;
+    width: 284px;
+    height: 96px;
+    left: 810px;
+    top: 910px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 96px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    /* Gray 3 */
+    
+    color: #828282;
+    
+}
+.blog1{
+    position: absolute;
+    z-index: 0;
+    width: 385px;
+    height: 504px;
+    left: 352px;
+    top: 1056px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 10px 30px rgba(16, 51, 30, 0.1);
+    border-radius: 30px;
+}
+.photo{
+    position: absolute;
+    width: 385px;
+    height: 290px;
+    left: 352px;
+    top: 1056px;
+    
+    background: url(services_card_img1.png);
+    border-radius: 30px 30px 0px 0px;
+}
+.sar{
+    z-index: 2;
+    position: absolute;
+width: 325px;
+height: 24px;
+left: 382px;
+top: 1376px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 900;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+
+color: #0D4D14;
+
+    
+}
+.infor{
+
+    position: absolute;
+    z-index: 3;
+    width: 325px;
+    height: 120px;
+    left: 382px;
+    top: 1410px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* or 143% */
+    
+    
+    color: #0D4D14;
+    
+}
+.blog2{
+    position: absolute;
+    width: 385px;
+    height: 504px;
+    left: 759px;
+    top: 1056px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 10px 30px rgba(16, 51, 30, 0.1);
+    border-radius: 30px;
+}
+.photo2{
+    position: absolute;
+    width: 385px;
+    height: 290px;
+    left: 759px;
+    top: 1056px;
+    
+    background: url(services_card_img2.png);
+    border-radius: 30px 30px 0px 0px;
+}
+.sar2{
+    position: absolute;
+    width: 325px;
+    height: 24px;
+    left: 789px;
+    top: 1376px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    
+    
+    color: #0D4D14;
+}
+.infor2{
+    position: absolute;
+    width: 325px;
+    height: 120px;
+    left: 789px;
+    top: 1410px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* or 143% */
+    
+    
+    color: #0D4D14;
+    
+    
+}
+.blog3{
+    position: absolute;
+    width: 385px;
+    height: 504px;
+    left: 1166px;
+    top: 1056px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 10px 30px rgba(16, 51, 30, 0.1);
+    border-radius: 30px;
+}
+.photo3{
+    position: absolute;
+    width: 385px;
+    height: 290px;
+    left: 1166px;
+    top: 1056px;
+    
+    background: url(services_card_img3.png);
+    border-radius: 30px 30px 0px 0px;
+}
+.sar3{
+    position: absolute;
+    width: 325px;
+    height: 24px;
+    left: 1196px;
+    top: 1376px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    color: #0D4D14;
+}
+.infor3{
+    position: absolute;
+width: 325px;
+height: 120px;
+left: 1196px;
+top: 1410px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+
+color: #0D4D14;
+
+    
+}
+.tugma2{
+    position: absolute;
+width: 180px;
+height: 70px;
+left: 862px;
+top: 1610px;
+
+background: #FFFFFF;
+box-shadow: 0px 16px 30px rgba(50, 175, 100, 0.15);
+border-radius: 35px;
+}
+.haqida{
+    position: absolute;
+    width: 298px;
+    height: 96px;
+    left: 803px;
+    top: 1750px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 96px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    /* Gray 3 */
+    
+    color: #828282;
+    
+}
+.chiziq1{
+    background-image: url(./services_icon.svg);
+    position: absolute;
+    width: 108.63px;
+    height: 93.94px;
+    left: 806px;
+    top: 958px;
+    
+}
+.chiziq2{
+    position: absolute;
+    width: 92.5px;
+    height: 57.5px;
+    left: 826.76px;
+    top: 962.08px;
+    
+    border: 2px solid rgba(19, 78, 28, 0.7);
+    transform: rotate(20.1deg);
+}
+.chiziq3{
+    position: absolute;
+    width: 92.5px;
+    height: 57.5px;
+    left: 821.1px;
+    top: 967.1px;
+    
+    border: 2px solid #134E1C;
+    transform: rotate(12.08deg);
+}
+.window2{
+    position: absolute;
+width: 1903px;
+height: 732px;
+left: 0px;
+top: 1896px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(about_bg.png);
+box-shadow: inset 0px 4px 50px rgba(0, 0, 0, 0.25);
+}
+.text1{
+    position: absolute;
+width: 360px;
+height: 408px;
+left: 352px;
+top: 2050px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+/* or 133% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.text2{
+    position: absolute;
+    width: 360px;
+    height: 408px;
+    left: 772px;
+    top: 2050px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    /* or 133% */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+    
+}
+.text3{
+    position: absolute;
+    width: 360px;
+    height: 408px;
+    left: 1191px;
+    top: 2050px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    /* or 133% */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+    
+}
+.tugma3{
+    position: absolute;
+width: 180px;
+height: 70px;
+left: 862px;
+top: 2508px;
+
+background: #FFFFFF;
+box-shadow: 0px 16px 30px rgba(50, 175, 100, 0.15);
+border-radius: 35px;
+}
+.sar4{
+    position: absolute;
+width: 456px;
+height: 96px;
+left: 724px;
+top: 2698px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 64px;
+line-height: 96px;
+/* identical to box height */
+
+text-align: center;
+
+/* Gray 3 */
+
+color: #828282;
+
+}
+.content{
+    box-sizing: border-box;
+
+position: absolute;
+width: 577px;
+height: 233px;
+left: 352px;
+top: 2864px;
+
+background: #FFFFFF;
+border: 1px solid #6CB981;
+border-radius: 40px;
+}
+.conrasm{
+
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 382px;
+    top: 2894px;
+    
+    background: url(./testymonials_card_icon.svg);
+}
+.conname{
+    position: absolute;
+    width: 147px;
+    height: 22px;
+    left: 476px;
+    top: 2894px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height, or 122% */
+    
+    
+    color: #6CB981;
+    
+}
+.context{
+    position: absolute;
+    width: 423px;
+    height: 110px;
+    left: 476px;
+    top: 2929px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    /* or 157% */
+    
+    
+    color: #0D4C14;
+    
+}
+.conbaho{
+    background-image: url(./testymonials_card_star_icon.svg);
+    position: absolute;
+width: 114px;
+height: 18px;
+left: 476px;
+top: 3049px;
+}
+.content2{
+   box-sizing: border-box;
+
+position: absolute;
+width: 577px;
+height: 233px;
+left: 974px;
+top: 2864px;
+}
+background: #FFFFFF;
+border: 1px solid #6CB981;
+border-radius: 40px;
+}
+.conname2{
+    position: absolute;
+    width: 147px;
+    height: 22px;
+    left: 1098px;
+    top: 2894px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height, or 122% */
+    
+    
+    color: #6CB981;
+    
+}
+.conrasm2{
+    position: absolute;
+width: 80px;
+height: 80px;
+left: 1004px;
+top: 2894px;
+
+background: url(./testymonials_card_icon.svg);
+}
+.context2{
+    position: absolute;
+    width: 423px;
+    height: 110px;
+    left: 1098px;
+    top: 2929px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    /* or 157% */
+    
+    
+    color: #0D4C14;
+    
+}
+.conbaho2{
+    background-image: url(./testymonials_card_star_icon.svg);
+    position: absolute;
+width: 114px;
+height: 18px;
+left: 1098px;
+top: 3049px;
+
+}
+.content3{
+   
+box-sizing: border-box;
+
+position: absolute;
+width: 577px;
+height: 233px;
+left: 352px;
+top: 3142px;
+
+background: #FFFFFF;
+border: 1px solid #6CB981;
+border-radius: 40px;
+}
+.conrasm3{
+
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 382px;
+    top: 3172px;
+    
+    background: url(./testymonials_card_icon.svg);
+}
+.conname3{
+    position: absolute;
+    width: 147px;
+    height: 22px;
+    left: 476px;
+    top: 3172px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height, or 122% */
+    
+    
+    color: #6CB981;
+    
+}
+.context3{
+    position: absolute;
+width: 423px;
+height: 110px;
+left: 476px;
+top: 3207px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+
+color: #0D4C14;
+
+}
+.conbaho3{
+    background-image: url(./testymonials_card_star_icon.svg);
+    position: absolute;
+width: 114px;
+height: 18px;
+left: 476px;
+top: 3327px;
+
+}
+.content4{
+    box-sizing: border-box;
+ 
+ position: absolute;
+ width: 577px;
+ height: 233px;
+ left: 974px;
+ top: 3142px;
+ 
+ background: #FFFFFF;
+ border: 1px solid #6CB981;
+ border-radius: 40px;
+ }
+ .conname4{
+     position: absolute;
+     width: 147px;
+     height: 22px;
+     left: 1098px;
+     top: 3172px;
+     
+     font-family: 'Poppins';
+     font-style: normal;
+     font-weight: 700;
+     font-size: 18px;
+     line-height: 22px;
+     /* identical to box height, or 122% */
+     
+     
+     color: #6CB981;
+     
+ }
+ .conrasm4{
+     position: absolute;
+ width: 80px;
+ height: 80px;
+ left: 1004px;
+ top: 3172px;
+ 
+ background: url(./testymonials_card_icon.svg);
+ }
+ .context4{
+     position: absolute;
+     width: 423px;
+     height: 110px;
+     left: 1098px;
+     top: 3207px;
+     
+     font-family: 'Poppins';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 14px;
+     line-height: 22px;
+     /* or 157% */
+     
+     
+     color: #0D4C14;
+     
+ }
+ .conbaho4{
+     background-image: url(./testymonials_card_star_icon.svg);
+     position: absolute;
+width: 114px;
+height: 18px;
+left: 1098px;
+top: 3327px;
+ }
+ .contact{
+    position: absolute;
+    width: 364px;
+    height: 96px;
+    left: 770px;
+    top: 3475px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 96px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    /* Gray 3 */
+    background-color:  #FCFCFC;
+    color: #828282;
+    border: none;
+
+ }
+ .tugma4{
+    position: absolute;
+width: 374px;
+height: 56px;
+left: 558px;
+top: 3641px;
+
+background: #9FDEA9;
+border-radius: 61px;
+ }
+ .tugma5{
+    position: absolute;
+    width: 374px;
+    height: 56px;
+    left: 558px;
+    top: 3711px;
+    
+    background: #9FDEA9;
+    border-radius: 61px;
+ }
+ .tugma6{
+    position: absolute;
+    width: 374px;
+    height: 56px;
+    left: 558px;
+    top: 3781px;
+    
+    background: #9FDEA9;
+    border-radius: 61px;
+ }
+ .tugma7{
+    box-sizing: border-box;
+ }
+ position: absolute;
+    width: 168px;
+    height: 56px;
+    left: 661px;
+    top: 3851px;
+    
+    border: 3px solid #4DB96B;
+    border-radius: 61px;
+ }
+ .window3{
+    position: absolute;
+width: 1903px;
+height: 532px;
+left: 0px;
+top: 3425px;
+
+background: #FCFCFC;
+border-radius: 0px;
+ }
+ .gmail{
+    position: absolute;
+    width: 103px;
+    height: 17px;
+    left: 1076px;
+    top: 3675px;
+    
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    
+    /* Gray 1 */
+    
+    color: #333333;
+    
+ }
+ .number{
+    position: absolute;
+    width: 100px;
+    height: 17px;
+    left: 1076px;
+    top: 3729px;
+    
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    
+    /* Gray 1 */
+    
+    color: #333333;
+    
+ }
+ .manzil{
+    position: absolute;
+    width: 270px;
+    height: 17px;
+    left: 1076px;
+    top: 3783px;
+    
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    
+    /* Gray 1 */
+    
+    color: #333333;
+    
+ }
+ .iqem1{
+    position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 16.67%;
+bottom: 16.67%;
+color: black;
+
+
+ }
+ .iqem2{
+    width: 15px;
+    height: 15px;
+    background-image: url(./Vector\ \(1\).jpg);
+    position: absolute;
+left: 12.61%;
+right: 12.54%;
+top: 12.54%;
+bottom: 12.61%;
+
+background: #4DB96B;
+ }
+ .iqem3{
+    width: 15px;
+    height: 15px;
+    background-image: url(./Vector.png);
+    position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 8.33%;
+bottom: 10.54%;
+
+background: #4DB96B;
+ }
